@@ -1,4 +1,4 @@
 # advanced_track
 Track for Deep Learning models:
-* Mask_RCNN (in dev) - model for object detection/segmentkhkhtion
+* Mask_RCNN (in dev) - model for object detection/segmentation
 * tbd
