@@ -7,3 +7,4 @@ explore-ml
 	* regression
 	* classification
 * advanced_track
+	* Mask_RCNN - object detection/segmentation 
