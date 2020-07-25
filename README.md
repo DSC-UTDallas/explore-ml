@@ -10,8 +10,9 @@ Materials for exploring machine learning
 ### Repo structure
 
 explore-ml
-
-- beginner*track
+- beginner track
   * regression
-  \_ classification
-- advanced_track \* Mask_RCNN - object detection/segmentation
+  * classification
+- advanced_track
+  * Mask_RCNN - object detection/segmentation
+
