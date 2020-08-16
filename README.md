@@ -12,4 +12,4 @@ Materials for exploring machine learning
 explore-ml
 - advanced_track
   * [Mask_RCNN](https://github.com/quocdat32461997/Mask_RCNN/tree/d93add1cc911b6d9a424899319ba9c74127db209) - object detection/segmentation
-  * [BiLSTM-CRF](https://github.com/quocdat32461997/BiLSTM-CRF/tree/4ab4ddc1ed5df5da2e4815d1c38898e76dd1b886) - Name Entity Recognition
+  * [BiLSTM-CRF](https://github.com/DSC-UTDallas/explore-ml/tree/advanced/BiLSTM-CRF) - Name Entity Recognition
