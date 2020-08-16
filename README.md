@@ -11,6 +11,6 @@ Materials for exploring machine learning
 
 explore-ml
 - beginner track
-  * regression
-  * classification
+  * [regression](https://github.com/DSC-UTDallas/explore-ml/tree/beginner/beginner_track/regression)
+  * [classification](https://github.com/DSC-UTDallas/explore-ml/tree/beginner/beginner_track/classification
 
