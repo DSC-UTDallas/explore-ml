@@ -13,6 +13,4 @@ explore-ml
 - beginner track
   * regression
   * classification
-- advanced_track
-  * Mask_RCNN - object detection/segmentation
 
