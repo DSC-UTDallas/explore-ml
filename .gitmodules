@@ -1,9 +1,12 @@
 [submodule "Mask_RCNN"]
 	path = Mask_RCNN
-	url = https://github.com/quocdat32461997/Mask_RCNN
+	url = https://github.com/quocdat32461997/Mask_RCNN.git
 [submodule "advanced_track/Mask_RCNN"]
 	path = advanced_track/Mask_RCNN
 	url = https://github.com/quocdat32461997/Mask_RCNN
 [submodule "advanced_track/advanced_track/BiLSTM-CRF"]
 	path = advanced_track/advanced_track/BiLSTM-CRF
 	url = git@github.com:quocdat32461997/BiLSTM-CRF.git
+[submodule "BiLSTM-CRF"]
+	path = BiLSTM-CRF
+	url = https://github.com/quocdat32461997/BiLSTM-CRF.git
