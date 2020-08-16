@@ -15,4 +15,4 @@ explore-ml
   * classification
 - advanced_track
   * Mask_RCNN - object detection/segmentation
-
+  * BiLSTM-CRF - Name Entity Recognition
