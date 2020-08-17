@@ -11,8 +11,6 @@ Materials for exploring machine learning
 
 explore-ml
 - beginner track
-  * regression
-  * classification
-- advanced_track
-  * Mask_RCNN - object detection/segmentation
+  * [regression](https://github.com/DSC-UTDallas/explore-ml/tree/beginner/beginner_track/regression)
+  * [classification](https://github.com/DSC-UTDallas/explore-ml/tree/beginner/beginner_track/classification
 
