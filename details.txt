@@ -1,6 +1,0 @@
-What is AI and Machine Learning? Curious about intuition behind Machine Learning models?
-In this workshop, you will learn:
-* Linear Regression model to predict house prices in Boston
-* Logistic Regression model to classify Iris flower types
-* Concerns and challenges in training Machine Learning models
-* Intuitive math formulas and steps to train a model
