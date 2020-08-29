@@ -2,7 +2,14 @@
 
 Materials for exploring machine learning
 
-### Repo structure
+## Contributors
+
+### Intro To Python
+
+[Evelyn Le](https://github.com/evelynle28)   
+[Bryant Hou](https://github.com/BryantH24)
+
+## Repo structure
 
 explore-ml
 - intro_to_python
