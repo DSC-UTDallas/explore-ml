@@ -7,7 +7,8 @@ Materials for exploring machine learning
 ### Intro To Python
 
 [Evelyn Le](https://github.com/evelynle28)   
-[Bryant Hou](https://github.com/BryantH24)
+[Bryant Hou](https://github.com/BryantH24)  
+[Abhejay Murali](https://github.com/Abhejay)
 
 ## Repo structure
 
