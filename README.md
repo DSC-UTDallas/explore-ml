@@ -10,6 +10,13 @@ Materials for exploring machine learning
 [Bryant Hou](https://github.com/BryantH24)  
 [Abhejay Murali](https://github.com/Abhejay)
 
+### BeginnerML
+
+[Dat Ngo](https://github.com/quocdat32461997)  
+[Ashwin Somasundaram](https://github.com/AshwinSomasundaram)  
+[Vincent Vu](https://github.com/vincent-vu280)  
+[Saloni Shivdasani](https://github.com/SaloniSS)
+
 ## Repo structure
 
 explore-ml
