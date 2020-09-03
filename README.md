@@ -25,3 +25,4 @@ explore-ml
   * intro2.ipynb
   * numpy.ipynb
 
+### If you think this repo is useful for you, please star it
