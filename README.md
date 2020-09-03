@@ -24,5 +24,8 @@ explore-ml
   * intro1.ipynb
   * intro2.ipynb
   * numpy.ipynb
+- beginner_ml
+  * linear_regression.ipynb
+  * logistic_regression.ipynb
 
 ### If you think this repo is useful for you, please star it
