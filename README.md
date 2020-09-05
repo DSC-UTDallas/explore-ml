@@ -51,8 +51,8 @@ Do join our Discord and mailing lists to get updates on workshops and events, al
 
 - DSC Discord: https://discord.gg/xZ3MwHj 
 - DSC Mailing List:https://forms.gle/fHkai3qWopmpq6UR9
-- ACM Discord: acmutd.co/discord 
-- ACM Mailing List: acmutd.co/join.html 
+- ACM Discord: https://acmutd.co/discord 
+- ACM Mailing List: https://acmutd.co/join.html 
 
 ### If you think this repo is useful for you, please star it
 
