@@ -1,6 +1,6 @@
 # ExploreML
 
-Dive into machine learning with our workshop series
+Dive into machine learning with our workshop series with content created by the officers at Developer Students Club and ACM Education
 
 ## Content
 
@@ -45,4 +45,16 @@ ExploreML uses TrackIT, a product by ACM Development, to deliver our workshops. 
     - Seaborn.ipynb
     - Scikitlearn.ipynb
 
+## Organization Information
+
+Do join our Discord and mailing lists to get updates on workshops and events, along with meeting peers and officer with the same interests as you
+
+- DSC Discord: https://discord.gg/xZ3MwHj 
+- DSC Mailing List:https://forms.gle/fHkai3qWopmpq6UR9
+- ACM Discord: acmutd.co/discord 
+- ACM Mailing List: acmutd.co/join.html 
+
 ### If you think this repo is useful for you, please star it
+
+![UTD DSC](https://storage.googleapis.com/saloni-shivdasani-resume/DSC%20University%20of%20Texas%20at%20Dallas%20Logo%20x1-3-2.png)
+![ACM Education](https://github.com/acmutd/brand/blob/master/Education/Banners/Education_On_Black.png?raw=true)
