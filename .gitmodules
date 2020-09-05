@@ -1,6 +1,0 @@
-[submodule "Mask_RCNN"]
-	path = Mask_RCNN
-	url = https://github.com/quocdat32461997/Mask_RCNN
-[submodule "advanced_track/Mask_RCNN"]
-	path = advanced_track/Mask_RCNN
-	url = https://github.com/quocdat32461997/Mask_RCNN
