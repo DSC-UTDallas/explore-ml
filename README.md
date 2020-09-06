@@ -28,9 +28,10 @@ What is AI and Machine Learning? Curious about intuition behind Machine Learning
 
 ## TrackIT
 
-ExploreML uses TrackIT, a product by ACM Development, to deliver our workshops. You can acccess step-by-step workshop content at any point at http://trackit.acmutd.co/ using the following codes (case sensitive):
+ExploreML uses TrackIT, a product by ACM Development, to deliver our workshops. You can acccess step-by-step workshop content at any point at https://trackit.acmutd.co/ using the following codes (case sensitive):
 - "Intro To Python"
 - "Linear Regression"
+- "Logistic Regression"
 
 ## Repo structure
 
@@ -40,6 +41,7 @@ ExploreML uses TrackIT, a product by ACM Development, to deliver our workshops. 
   - NumPy.ipynb
 - Explore ML
   - Linear Regression.ipynb
+  - Logistic Regression.ipynb
   - More Resources
     - Pandas.ipynb
     - Seaborn.ipynb
@@ -51,8 +53,8 @@ Do join our Discord and mailing lists to get updates on workshops and events, al
 
 - DSC Discord: https://discord.gg/xZ3MwHj 
 - DSC Mailing List:https://forms.gle/fHkai3qWopmpq6UR9
-- ACM Discord: https://acmutd.co/discord 
-- ACM Mailing List: https://acmutd.co/join.html 
+- ACM Discord: www.acmutd.co/discord 
+- ACM Mailing List: www.acmutd.co/join.html 
 
 ### If you think this repo is useful for you, please star it
 
