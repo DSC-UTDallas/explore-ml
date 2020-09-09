@@ -104,12 +104,3 @@ class CRF(Layer):
     def compute_output_shape(self, input_shape):
         tf.TensorShape(input_shape).assert_has_rank(3)
         return input_shape[:2] + (self.output_dim,)
-
-    def get_config(self):
-        config = {
-            'output_dim': self.output_dim,
-            'sparse_target': self.sparse_target,
-            'supports_masking': self.supports_masking,
-            'transitions': K.eval(self.transitions)
-        }
-        return dict(base_config, **config)
