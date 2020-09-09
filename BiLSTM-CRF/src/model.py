@@ -3,15 +3,11 @@ output.py - module to store BiLSTM-CRF model
 """
 
 from tensorflow.keras import Model
-from tensorflow.keras.layers import Input, LSTM, Lambda, Embedding, TimeDistributed, Dropout, Bidirectional, Dense
-import tensorflow_addons as tfa
-from tensorflow_addons.text import crf_log_likelihood, viterbi_decode
-
-from src.loss import CRF
+from tensorflow.keras.layers import Input, LSTM, Embedding, TimeDistributed, Dropout, Bidirectional, Dense
 
 def embedding_layer(input_dim, output_dim, input_length, mask_zero):
     return Embedding(input_dim = input_dim, output_dim = output_dim, input_length = input_length, mask_zero = mask_zero)
-
+    
 def bilstm_crf(maxlen, n_tags, embedding_dim, n_words, mask_zero, training = True):
     """
     bilstm_crf - module to build BiLSTM-CRF model
@@ -32,8 +28,6 @@ def bilstm_crf(maxlen, n_tags, embedding_dim, n_words, mask_zero, training = Tru
 
     # Dense layer
     output = TimeDistributed(Dense(n_tags, activation = 'relu'))(output)
-
-    # CRF layer
+    
     output = CRF(n_tags, name = 'crf_layer')(output)
-
     return Model(input, output)
