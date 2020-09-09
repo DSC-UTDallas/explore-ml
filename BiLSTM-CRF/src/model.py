@@ -4,7 +4,7 @@ output.py - module to store BiLSTM-CRF model
 
 from tensorflow.keras import Model
 from tensorflow.keras.layers import Input, LSTM, Embedding, TimeDistributed, Dropout, Bidirectional, Dense
-
+from .src.loss import CRF
 def embedding_layer(input_dim, output_dim, input_length, mask_zero):
     return Embedding(input_dim = input_dim, output_dim = output_dim, input_length = input_length, mask_zero = mask_zero)
     
