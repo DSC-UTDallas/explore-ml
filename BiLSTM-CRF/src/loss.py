@@ -4,7 +4,7 @@ loss.py - module to implement Conditional-RandompField loss function
 
 import tensorflow as tf
 import tensorflow.keras.backend as K
-import tensorflow.keras.layers import Layer, InputSpec
+from tensorflow.keras.layers import Layer, InputSpec
 from tensorflow_addons.text import crf_log_likelihood, crf_decode
 
 class CRF(Layer):

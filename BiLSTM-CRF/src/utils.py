@@ -3,6 +3,7 @@ utils.py - module to implement utils for BiLSTM-CRF
 """
 
 import tensorflow as tf
+import numpy as np
 import pandas as pd
 from sklearn.utils import shuffle
 from tensorflow.keras.utils import Sequence, to_categorical
