@@ -47,7 +47,7 @@ def bilstm_crf(word2dix, maxlen, n_tags, embedding_dim, n_words, mask_zero, trai
     """
     input = Input(shape = (maxlen,))
     # Embedding layer
-    embeddings = embedding_layer(input_dim = n_words + 1, output_dim = embedding_dim, input_length = maxlen, mask_zero = mask_zero)
+    embeddings = embedding_layer(word2dix = word2dix, input_dim = n_words + 1, output_dim = embedding_dim, input_length = maxlen, mask_zero = mask_zero)
     output = embeddings(input)
 
     # BiLSTM layer
