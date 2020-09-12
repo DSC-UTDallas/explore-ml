@@ -28,6 +28,9 @@ What is AI and Machine Learning? Curious about intuition behind Machine Learning
 
 ### Advanced ML
 Learn Advanced ML techniques such as: Computer Vision, Natural Language Understanding, and etc.
+
+#### Contributors
+
 [Dat Ngo](https://github.com/quocdat32461997)
 [Pradeep]()
 [Saloni Shivdasani](https://github.com/SaloniSS)
