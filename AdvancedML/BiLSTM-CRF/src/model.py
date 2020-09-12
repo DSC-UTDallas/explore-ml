@@ -10,19 +10,19 @@ from .loss import CRF
 
 def embedding_map(glove_path = 'glove.6B.200d.txt'):
     """
-	    embedding_map - function to load weights of the pretrained Glove embedding file
-	    Parameters:
-		    glove_path              I/P     path to the pretrained Glove embedding file
-		    embedding_index		O/p	weights of the pretrained Glove embedding file
-	  """
-	  embeddings_index = {}
-	  with open(glove_path) as f:
-		  for line in f:
-		  	word, coefs = line.split(maxsplit = 1)
-		  	coefs = np.fromstring(coefs, 'f', sep = ' ')
-			  embeddings_index[word] = coefs
-	  print('Found %s word vectors.' %len(embeddings_index))
-	  return embeddings_index
+    embedding_map - function to load weights of the pretrained Glove embedding file
+    Parameters:
+        glove_path              I/P     path to the pretrained Glove embedding file
+        embedding_index		O/p	weights of the pretrained Glove embedding file
+    """
+    embeddings_index = {}
+    with open(glove_path) as f:
+        for line in f:
+            word, coefs = line.split(maxsplit = 1)
+            coefs = np.fromstring(coefs, 'f', sep = ' ')
+            embeddings_index[word] = coefs
+    print('Found %s word vectors.' %len(embeddings_index))
+    return embeddings_index
 
 def embedding_layer(word2dix, input_dim, output_dim, input_length, mask_zero):
     embedding_index = embedding_map()
