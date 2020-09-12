@@ -31,9 +31,12 @@ Learn Advanced ML techniques such as: Computer Vision, Natural Language Understa
 
 #### Contributors
 
-[Dat Ngo](https://github.com/quocdat32461997)	
-[Pradeep]()	
-[Saloni Shivdasani](https://github.com/SaloniSS)	
+[Dat Ngo](https://github.com/quocdat32461997)
+
+[Pradeep]()
+
+[Saloni Shivdasani](https://github.com/SaloniSS)
+
 [Ashwin R.]()
 
 ## TrackIT
