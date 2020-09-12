@@ -32,6 +32,7 @@ ExploreML uses TrackIT, a product by ACM Development, to deliver our workshops. 
 - "Intro To Python"
 - "Linear Regression"
 - "Logistic Regression"
+- "Name Entity Recognition"
 
 ## Repo structure
 
