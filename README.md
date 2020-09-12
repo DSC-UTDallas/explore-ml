@@ -26,6 +26,13 @@ What is AI and Machine Learning? Curious about intuition behind Machine Learning
 [Saloni Shivdasani](https://github.com/SaloniSS)  
 [Reshmi Ranjith](https://github.com/ReshmiCode)
 
+### Advanced ML
+Learn Advanced ML techniques such as: Computer Vision, Natural Language Understanding, and etc.
+[Dat Ngo](https://github.com/quocdat32461997)
+[Pradeep]()
+[Saloni Shivdasani](https://github.com/SaloniSS)
+[Ashwin R.]()
+
 ## TrackIT
 
 ExploreML uses TrackIT, a product by ACM Development, to deliver our workshops. You can acccess step-by-step workshop content at any point at https://trackit.acmutd.co/ using the following codes (case sensitive):
