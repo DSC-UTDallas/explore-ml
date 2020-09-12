@@ -46,6 +46,9 @@ ExploreML uses TrackIT, a product by ACM Development, to deliver our workshops. 
     - Pandas.ipynb
     - Seaborn.ipynb
     - Scikitlearn.ipynb
+- Advancd ML
+	- BiLSTM-CRF
+	- Mask-RCNN 
 
 ## Organization Information
 

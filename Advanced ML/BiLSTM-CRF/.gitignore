@@ -1,0 +1,5 @@
+**/.ipynb_checkpoints
+**/*.zip
+**/name-entity-recognition-corpus
+**/*.csv
+**/__pycache__
