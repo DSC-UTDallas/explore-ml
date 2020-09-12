@@ -29,7 +29,7 @@ def embedding_layer(word2dix, input_dim, output_dim, input_length, mask_zero):
 
     embedding_matrix = np.zeros((input_dim, output_dim))
     for word, i in word2dix.items():
-      embedding_vector = embdding_index.get(word)
+      embedding_vector = embedding_index.get(word)
       if embedding_vector is not None:
         embedding_matrix[i] = embedding_vector
 
