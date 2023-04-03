@@ -23,7 +23,7 @@ What is AI and Machine Learning? Curious about intuition behind Machine Learning
 [Dat Ngo](https://github.com/quocdat32461997)  
 [Ashwin Somasundaram](https://github.com/AshwinSomasundaram)  
 [Vincent Vu](https://github.com/vincent-vu280)  
-[Saloni Shivdasani](https://github.com/SaloniSS)  
+[Saloni](https://github.com/SaloniSS)  
 [Reshmi Ranjith](https://github.com/ReshmiCode)
 
 ### Advanced ML
@@ -34,7 +34,7 @@ Learn Advanced ML techniques such as: Computer Vision, Natural Language Understa
 
 [Dat Ngo](https://github.com/quocdat32461997)  
 [Ashwin R.]()  
-[Saloni Shivdasani](https://github.com/SaloniSS)  
+[Saloni](https://github.com/SaloniSS)  
 [Alex O]()  
 [Pradeep]()
 
